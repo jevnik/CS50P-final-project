@@ -1,11 +1,10 @@
 # CONNECT INLINE 4
-#### Video Demo:  <URL HERE>
 #### Description: For my final project I created a match inline 4 game using python's pygame module.
 
 ## Requirements
 - Python 3.x
 - Pygame library
-- board2.pn
+- board2.png
 - red.png
 - yellow.png
 
